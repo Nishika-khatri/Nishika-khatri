@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Nishika-khatri
-- 👀 I’m interested in about new technologies.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Nishika-khatri.
+- 👀 I’m currently working on face mask detection using tensorflow, openCV and python.
+- 🌱 I’m learning MERN stack web development.
 - 📫 You can reach me via mail my id : nishikakhatri26@yahoo.com
 
 <!---
