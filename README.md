@@ -2,6 +2,7 @@
 - 👀 I’m currently working on face mask detection using tensorflow, openCV and python.
 - 🌱 I’m learning MERN stack web development.
 - 📫 You can reach me via mail my id : nishikakhatri26@yahoo.com
+- 📩 You can connect with me on LinkedIn : https://www.linkedin.com/in/nishika-khatri/ 
 
 <!---
 Nishika-khatri/Nishika-khatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
