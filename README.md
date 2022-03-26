@@ -55,9 +55,15 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <br>
 
-<p align="center"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishika-khatri&show_icons=true&locale=en&layout=compact" alt="nishika-khatri" /></p>
+<p align="center">
+<a href="https://github.com/nishika-khatri/github-readme-stats"><img alt="Nishika Khatri's Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika-khatri&langs_count=8&count_private=true&layout=compact&theme=black-ice&hide_border=true&bg_color=060A0CD0" /></a>
+</p>
 
-<p align="center"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nishika-khatri&" alt="nishika-khatri" /></p>
+<p align="center">
+    <a href="https://github.com/nishika-khatri/github-readme-streak-stats">
+        <img height="200" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nishika Khatri's streak" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nishika-khatri&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
 
