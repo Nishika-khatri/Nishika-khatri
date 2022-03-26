@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nishikakhatri2611@gmail.com**
 
-- ⚡ Fun fact **I'm Potterhead 🪄**
+- ⚡ Fun fact **I'm a Potterhead 🪄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
